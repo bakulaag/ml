@@ -1,0 +1,1 @@
+solcjs --bin --abi vote.sol
